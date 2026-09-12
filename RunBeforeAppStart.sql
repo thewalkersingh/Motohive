@@ -1,3 +1,0 @@
-CREATE DATABASE IF NOT EXISTS motohive_vehicles;
-CREATE DATABASE IF NOT EXISTS motohive_listings;
-CREATE DATABASE IF NOT EXISTS motohive_users;
